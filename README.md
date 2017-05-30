@@ -4,8 +4,12 @@ This will a repository for for a few settings for the xboxdrv driver, as it is u
 
 https://github.com/xboxdrv/xboxdrv
 
-The driver is used for an Xbox360 wireless controller. And this hardware basically was turned into a mouse with more than 20 buttons with this driver. And it works like a charm so far, with very few, it seems, basically neglegible glitches.
+The driver is used for an Xbox360 wireless controller. And this hardware basically was turned into a mouse with more than 20 buttons with this driver. Seems to work like a charm so far, with very few, it seems, basically neglegible glitches. So far it is mainly used for running mpv (*1), the movie player.
 
-The problem lies with the documentation: I basically got the driver running via trial and error. So hopefully this situation can be changed with a little attention to the docs that come with the driver itself, and description of how I got that driver running.
+The problem lies with the documentation: I basically got the driver running via trial and error. So hopefully this situation can be changed with a little attention to the docs that already come with the driver itself, and some description of how I got it working.
 
 Enjoy!
+
+
+--------------
+(*1) https://github.com/mpv-player/mpv/releases
