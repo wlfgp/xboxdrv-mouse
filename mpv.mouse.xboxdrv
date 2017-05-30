@@ -1,12 +1,10 @@
 # Mouse Emulation
 # ===============
 #
-# This configuration file emulates a mouse. The left stick controls
-# the cursor, the right stick becomes a horizontal and vertical scroll
-# wheel, the dpad acts as cursor keys, the start and back buttons
-# become forward and back buttons, the guide button escape and LB and
-# RB become page up and page down and the face button act as mouse
-# button.
+# This configuration file emulates a mouse. It's the edited version
+# of mouse.xboxdrv, an example file that came with the 
+# xboxdrv driver package. See:
+# https://github.com/xboxdrv/xboxdrv
 
 [xboxdrv]
 ui-clear=true
@@ -15,48 +13,26 @@ ui-clear=true
 x1^dead:4000 = REL_X:750:-1
 y1^dead:4000 = REL_Y:750:-1
 
-# y2^dead:6000^invert = REL_WHEEL:5:100
-# x2^dead:6000 = REL_HWHEEL:5:100
-# trigger^invert=REL_WHEEL:5:100
-
 y2^dead:6000^invert = rel-repeat:REL_WHEEL:1:50
 x2^dead:6000 = rel-repeat:REL_HWHEEL:1:50
-# trigger^invert = rel-repeat:REL_WHEEL:1:50
-
-
-# x2 = BTN_3:BTN_4
-# y2 = BTN_5:BTN_6
-
-
-# lt = KEY_VOLUMEDOWN:20
-# rt = KEY_VOLUMEUP:20
 
 [ui-buttonmap]
-# a = KEY_V
 a = KEY_G
 b = BTN_RIGHT
 x = BTN_LEFT
 y = KEY_B
-# y = KEY_J
 
 rb = KEY_Z
 lb = KEY_A
 
-#rb = KEY_RIGHTBRACE
-#lb = KEY_LEFTBRACE
-
 tl = KEY_BACKSPACE
 tr = KEY_SPACE
-# BACK=BTN_BACK
 
 [ui-buttonmap]
 dl = KEY_LEFT
 dr = KEY_RIGHT
 du = KEY_UP
 dd = KEY_DOWN
-
-# lt = KEY_VOLUMEDOWN
-# rt = KEY_VOLUMEUP
 
 lt = KEY_END
 rt = KEY_L
@@ -65,9 +41,6 @@ rt = KEY_L
 start = BTN_BACK
 back = BTN_FORWARD
 
-
-#start = KEY_FORWARD
-#back  = KEY_BACK
 guide = KEY_ESC
 
 # EOF #
