@@ -7,7 +7,7 @@
 # https://github.com/xboxdrv/xboxdrv
 # 
 # This file is used to get mpv running with the xboxdrv driver hooked to
-# an Xbox360 wireless controller.
+# an Xbox 360 wireless controller.
 
 [xboxdrv]
 ui-clear=true
