@@ -1,6 +1,6 @@
 # xboxdrv-mouse
 
-This will be a repository for a few settings for the xboxdrv driver, as it is used on a Fedora Linux 24 system. The driver's home is here:
+This will be a repository for a few settings for the xboxdrv driver, as it is used on a Fedora 24 Linux system. The driver's home is here:
 
 * https://github.com/xboxdrv/xboxdrv
 
