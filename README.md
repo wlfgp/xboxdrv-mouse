@@ -12,5 +12,5 @@ Enjoy!
 
 
 ----
-. *1*  http://support.xbox.com/en-US/xbox-360/accessories/controllers
-. *2*  https://github.com/mpv-player/mpv/releases
+* *1*  http://support.xbox.com/en-US/xbox-360/accessories/controllers
+* *2*  https://github.com/mpv-player/mpv/releases
