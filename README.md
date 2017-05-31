@@ -2,7 +2,7 @@
 
 This will a repository for a few settings for the xboxdrv driver, as it is used on Fedora Linux 24. The driver's home is here:
 
-https://github.com/xboxdrv/xboxdrv
+* https://github.com/xboxdrv/xboxdrv
 
 The driver is used for an Xbox360 wireless controller. And this hardware basically was turned into a mouse with more than 20 buttons with this driver. Seems to work like a charm so far, with very few, it seems, basically neglegible glitches. So far it is mainly used for running mpv (*1), the movie player.
 
