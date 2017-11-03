@@ -8,6 +8,12 @@ The driver here is used for an Xbox 360 wireless controller (*1*), and for a Ger
 
 The problem lies with the documentation: I basically got the driver running via trial and error. So hopefully this situation can be changed with a little attention to the docs that already come with the driver itself, and some description of how I got it working.
 
+To get the driver running you may want to start with something like that:
+
+xboxdrv -s -c /path/to/mpv.mouse.xboxdrv
+
+You find mpv.mouse.xboxdrv in the directory above.
+
 Enjoy!
 
 
