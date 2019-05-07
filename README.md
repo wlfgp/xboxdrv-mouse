@@ -10,7 +10,7 @@ This is a repository for a few settings for the xboxdrv driver, as it is used on
 
 To get the driver running you may want to start with something like that:
 
-_xboxdrv -s -c /path/to/mpv.mouse.xboxdrv_
+*xboxdrv -s -c /path/to/mpv.mouse.xboxdrv*
 
 You find mpv.mouse.xboxdrv in the directory above.
 
