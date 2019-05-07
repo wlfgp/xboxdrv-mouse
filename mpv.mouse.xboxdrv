@@ -1,8 +1,9 @@
 # Mouse Emulation
 # ===============
 #
-# This configuration file emulates a mouse. It's the edited version of 
-# mouse.xboxdrv, an example file that came with the xboxdrv driver package.
+# This configuration file emulates a mouse, and keyboard keys. It's the edited 
+# version of mouse.xboxdrv, an example file that came with the xboxdrv driver 
+# package.
 # See:
 # https://github.com/xboxdrv/xboxdrv
 # 
