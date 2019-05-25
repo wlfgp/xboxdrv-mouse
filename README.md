@@ -14,7 +14,7 @@ To get the driver running maybe try to start with something like this:
 
 *xboxdrv -s -c /path/to/mpv.mouse.xboxdrv*
 
-You find the `mpv.mouse.xboxdrv` file in the directory above.
+You'll find the `mpv.mouse.xboxdrv` file in the directory above.
 
 And you might need something like `input.conf` for mpv, as the one in the mpv folder above.
 
