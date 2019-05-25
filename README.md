@@ -20,9 +20,10 @@ And you might need something like input.conf for mpv, as the one in the mpv fold
 
 Enjoy!
 
-_Update 2019-05-25:_
 
-Uploaded a changed *mpv.mouse.xboxdrv* - unwanted mouse movements should now be stopped by higher `x{1,2}^dead` and  `y{1,2}^dead` values.
+* _Update 2019-05-25:_
+     
+     Uploaded a changed *mpv.mouse.xboxdrv* - unwanted mouse movements should now be stopped by higher `x{1,2}^dead` and `y{1,2}^dead` values.  
 
 
 
