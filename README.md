@@ -6,9 +6,9 @@ This is a repository for a few settings for the xboxdrv driver, as it is used on
 
    The driver here is used for an Xbox 360 wireless controller (*1*), and for a German QWERTZ keyboard layout. With a different keyboard maybe have a look at the `mpv.mouse.xboxdrv` file above, and if necessary try to change it accordingly.
    
-   With the two config files in this directory the xboxdrv driver basically turns this controller into some sort of remote control - with more than 20 function keys. Currently it is used here mainly to navigate mpv (*2*), the movie player.
-
-   The problem lies a bit with the documentation: I basically got the driver running via trial and error. So hopefully this situation can be changed with a little attention to the docs that already come with the driver itself, and some description of how I got it working.
+   With the two config files in this directory the xboxdrv driver basically turns this controller into some sort of remote control - with more than 20 function keys. Currently it is used here mainly to navigate mpv (*2*), the movie player. 
+   
+   Watching movies or videos with the driver set-up like this will let you fast/slow-forward or -backward the video, switch on/off or change subtitles, change available languages or switch them off completely, slow down or increase playback-speed. You can watch the video upside-down or on one of its sides, and quite a bit more. Have a look at the config files, try the driver, and you probably never go back navigating a video with a keyboard.
 
 To get the driver running maybe try starting with something like this:
 
