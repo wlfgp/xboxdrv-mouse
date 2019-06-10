@@ -8,7 +8,7 @@ This is a repository for a few settings for the xboxdrv driver, as it is used on
    
    With the two config files in this directory the xboxdrv driver basically turns this controller into some sort of remote control - with more than 20 function keys. Currently it is used here mainly to navigate mpv (*2*), the movie player. 
    
-   Watching movies or videos with the driver set-up like this will let you fast/slow-forward or -backward the video, switch on/off or change subtitles, change available languages or switch them off completely, slow down or increase playback-speed. You can watch the video upside-down or on one of its sides, and quite a bit more. Have a look at the config files, try the driver, and you probably never go back navigating a video with a keyboard.
+   Watching movies or videos with the driver set-up like this will let you fast/slow forward or backward the video, switch on/off or change subtitles, change available languages or switch them off completely, slow down or increase playback-speed. You can watch the video upside-down or on one of its sides, and quite a bit more. Have a look at the config files, try the driver, and you probably never go back navigating a video with a keyboard.
 
 To get the driver running maybe try starting with something like this:
 
